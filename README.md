@@ -1,6 +1,6 @@
 # 🧠 Intent-Based Conversation Router
 
-A production-style AI system that classifies customer support transcripts, scores confidence, and automatically decides whether an AI agent should handle the conversation — or escalate it to a human.
+A production-style AI system that classifies customer support transcripts, scores confidence, and automatically decides whether an AI agent should handle the conversation  or escalate it to a human.
 
 Built to demonstrate the core decision layer inside enterprise AI voice and chat agent systems.
 
