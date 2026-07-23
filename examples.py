@@ -61,6 +61,14 @@ Customer: POL-TT-8821. Main 3 baar call kar chuka hoon, koi solution nahi.
 Agent: Sir main escalate karta hoon—
 Customer: Escalate mat karo, seedha manager se baat karwao abhi.
 Customer: Main yeh call record kar raha hoon. Senior officer chahiye mujhe.
-"""
+""", 
+
+    "❓ Ambiguous — Escalation Trigger": """
+Customer: Hi, I have a problem.
+Agent: Sure, how can I help?
+Customer: It's about my account I think. Something is wrong.
+Agent: Can you tell me more?
+Customer: I'm not sure exactly. Things just don't seem right.
+""",
 
 }
