@@ -130,4 +130,4 @@ This project implements that decision layer end to end, including the handoff co
 
 ---
 
-*Built by Mayank — B.Tech Computer Engineering, Shah and Anchor Kutchhi Engineering College, Mumbai*
+*Built by Mayank P. Savani*
